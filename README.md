@@ -73,6 +73,3 @@ Open `feature_engineering.ipynb` and run the cells from top to bottom.
 
 The saved notebook outputs show a baseline mean cross-validation accuracy of approximately **79.69%**. The model using all ten engineered features achieved approximately **82.26%**. Adding `Title` alone achieved approximately **82.83%** in the saved cross-validation results. Results may vary if the notebook is rerun with different data or settings.
 
-## Author
-
-Add your name, student ID, course, and institution here before submitting or publishing the repository.
